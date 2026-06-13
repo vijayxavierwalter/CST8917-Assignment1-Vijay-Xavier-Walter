@@ -1,4 +1,4 @@
-# Serverless Computing and Azure Durable Functions
+# Serverless Computing - Critical Analysis
 
 ---
 
